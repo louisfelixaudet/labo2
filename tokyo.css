@@ -1,0 +1,27 @@
+body {background-color: pink;}
+
+
+
+
+h1 { 
+    background-image: url("image/banniere.jpg");
+    text-shadow: 1px 1px 2px black,0 0 1em red, 0 0 0.2em red;
+    filter: grayscale(o.5);
+    text-align: center;}
+
+
+img {
+
+width : 150px;
+padding-right: 16px;
+padding-left: 16px;
+float: left;
+ 
+}
+
+
+h4 {
+    color: bisque;
+}
+
+
