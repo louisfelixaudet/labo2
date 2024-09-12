@@ -12,7 +12,7 @@ h1 {
 
 img {
 
-width : 150px;
+width : 256px;
 padding-right: 16px;
 padding-left: 16px;
 float: left;
@@ -21,7 +21,8 @@ float: left;
 
 
 h4 {
-    color: bisque;
+    color: red;
+    padding-left: 32px;
 }
 
 
