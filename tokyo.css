@@ -1,4 +1,4 @@
-body {background-color: yellow;}
+body {background-color: pink;}
 
 
 
@@ -9,20 +9,11 @@ h1 {
     filter: grayscale(o.5);
     text-align: center;}
 
-
-img {
-
-width : 256px;
-padding-right: 16px;
-padding-left: 16px;
-float: left;
- 
-}
-
-
-h4 {
-    color: red;
-    padding-left: 32px;
-}
-
+    img{
+        max-width: 256px;
+        max-height: 256px;
+        float: left;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
 
